@@ -15,6 +15,6 @@ while index < expressao.length
     end
     index += 1
 end
-Z
+
 puts "Há #{diamantes} diamante(s) na expressão"
 puts "Há #{areai} grão(s) de areai na espressão"
